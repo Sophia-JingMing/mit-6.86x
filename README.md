@@ -1,4 +1,4 @@
-# mit-6.86x: Mechine Learning: from linear models to deep learning #
+# MIT-6.86x: Machine Learning: from linear models to deep learning #
 An in-depth exploration to the field of mechine learing
 
 **Project in this course:**
